@@ -1,5 +1,5 @@
 ## Introduction
-This is a simple implement of threadpool for C/C++, it can only run functions without return. And it is under development.
+This is a simple implement of threadpool for C/C++, it can only run functions without return. And it is an exercise.
 
 ## Usage
 1. Download threadpool.h
