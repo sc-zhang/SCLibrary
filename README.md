@@ -1,5 +1,5 @@
 ## Introduction
-**S**ingle **C**/C++ **L**ibrary contain several C/C++ libraries, this is an exercise.
+**S**imple **C**/C++ **L**ibrary contain several C/C++ libraries, this is an exercise.
 
 ## Usage
 1. threadpool.h  
