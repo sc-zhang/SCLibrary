@@ -1,20 +1,8 @@
 ## Introduction
-This is a simple implement of threadpool for C/C++, it can only run functions without return. And it is an exercise.
+**S**ingle **C**/C++ **L**ibrary contain several C/C++ libraries, this is an exercise.
 
 ## Usage
-1. Download threadpool.h
-```shell
-git clone https://github.com/sc-zhang/threadpool.git
-```
-2. Copy threadpool.h in folder "c" to your project, add follow line to your source code.
-```c
-#include "threadpool.h"
-```
-
-## Demo
-```shell
-cd c
-cmake .
-make
-./demo
-```
+1. threadpool.h
+A simple implement of threadpool, can only execute sub function without return value.
+2. bloomfilter.h
+A simple implement of bloomfilter.
